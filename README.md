@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/CSS3-#1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+
 <!--
 **hmuri/hmuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
