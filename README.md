@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=EFD6E4&height=200&section=header&text=Minju%20Choi&fontSize=70&fontColor=3F3F3F)
+![header](https://capsule-render.vercel.app/api?type=waving&color=EFD6E4&height=200&section=header&text=Minju%20Choi&fontSize=70&fontColor=FFFFFF)
 
 <img src="https://img.shields.io/badge/CSS3-#1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=plastic&logo=CSS3&logoColor=FFFFFF"/>
