@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=DDA0DD&height=200&section=header&text=Minju%20Choi&fontSize=70&fontColor=FFFFFF)
 
-<!--<img alt="css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=plastic&logo=CSS3&logoColor=FFFFFF"/>  <img alt="html5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=plastic&logo=HTML5&logoColor=FFFFFF"/>  <img alt="javascript" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=plastic&logo=JAVASCRIPT&logoColor=FFFFFF"/>  <img alt="c" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=plastic&logo=C&logoColor=FFFFFF"/>  <img alt="c++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=plastic&logo=c++&logoColor=FFFFFF"/>
+<img alt="css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=plastic&logo=CSS3&logoColor=FFFFFF"/>  <img alt="html5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=plastic&logo=HTML5&logoColor=FFFFFF"/>  <img alt="javascript" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=plastic&logo=JAVASCRIPT&logoColor=FFFFFF"/>  <img alt="c" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=plastic&logo=C&logoColor=FFFFFF"/>  <img alt="c++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=plastic&logo=c++&logoColor=FFFFFF"/>
 <img alt="python" src ="https://img.shields.io/badge/PYTHON-00599C.svg?&style=plastic&logo=PYTHON&logoColor=FFFFFF"/>
 <img alt="react" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=plastic&logo=REACT&logoColor=FFFFFF"/>
 <img alt="firebase" src ="https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=plastic&logo=FIREBASE&logoColor=FFFFFF"/>
-<img alt="mysql" src ="https://img.shields.io/badge/MYSQL-FFCA28.svg?&style=plastic&logo=MYSQL&logoColor=FFFFFF"/>-->
+<img alt="mysql" src ="https://img.shields.io/badge/MYSQL-FFCA28.svg?&style=plastic&logo=MYSQL&logoColor=FFFFFF"/>
 <!--
 **hmuri/hmuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
