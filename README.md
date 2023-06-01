@@ -5,6 +5,11 @@
 <img alt="react" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=plastic&logo=REACT&logoColor=FFFFFF"/>
 <img alt="firebase" src ="https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=plastic&logo=FIREBASE&logoColor=FFFFFF"/>
 <img alt="mysql" src ="https://img.shields.io/badge/MYSQL-FFCA28.svg?&style=plastic&logo=MYSQL&logoColor=FFFFFF"/>
+<img alt="java" src ="<img alt="java" src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="lightroom" src ="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/>
+<img alt="photoshop" src ="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+<img alt="premiere" src ="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+                                                                                                                                     
 <!--
 **hmuri/hmuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
